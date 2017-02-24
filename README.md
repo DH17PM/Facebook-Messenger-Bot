@@ -1,6 +1,7 @@
 # [Cổng tri thức](https://www.messenger.com/t/434504756891831)
 ### Hệ thống công cụ hỗ trợ phát triển chức năng Robot chat tự động
 
+
 ## Đội ngũ phát triển - Ban xây dựng công trình **Cổng tri thức**:
 1. [Ban ngoại giao - Lớp DH17PM - AGU](https://www.facebook.com/groups/dh17pm.agu.fa/)
 2. [Nguyễn Hoàng Anh Khoa](https://www.facebook.com/nghganhkhoa) - Lớp trưởng DH17PM
