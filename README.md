@@ -18,6 +18,7 @@
 
 ## Sự giúp đỡ:
 * Chân thành cảm ơn tổ chức [Chatfuel](https://chatfuel.com/about-us.html) và [Facebook](https://www.facebook.com/help/1735443093393986) đã hỗ trợ các nền tảng để phát triển ứng dụng.
+* Chân thành cảm ơn thầy [Trương Minh Tuyền](https://www.facebook.com/agutuyen), Giảng viên môn Mạng máy tính, [Trường Đại học An Giang](http://www.agu.edu.vn/) đã hướng dẫn chuyên môn để xây dựng chức năng **Giải bài tập IP**
 * [1] Chân thành cảm ơn anh **[Mạnh Tuấn (Juno oKyo)](https://www.facebook.com/manhtuan1412)** - Quản trị viên [J2TeaM Community](https://www.facebook.com/groups/j2team.community) đã cung cấp nguồn chức năng **Chúc ngủ ngon**
 * [2] Chân thành cảm ơn bạn [Nguyễn Thành Dũng](https://www.facebook.com/thanhdungqb1991?fref=nf) - thành viên J2TeaM đã cung cấp nguồn chức năng **Vu vơ**
 * [3] Chân thành cảm ơn bạn [Nguyen Huu Dat](https://www.facebook.com/dl2811) - thành viên J2TeaM đã cung cấp nguồn chức năng **Tìm bài hát**
