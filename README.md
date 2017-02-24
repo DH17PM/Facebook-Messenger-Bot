@@ -15,7 +15,7 @@
 * Xem thời khóa biểu
 * Tra điểm rèn luyện
 * Giải bài tập IP
-* Tính toán *(chuyển đổi* **số nhị phân, 1 byte** *sang* **số thập phân***)*
+* Tính toán *(chuyển đổi* **số nhị phân, 1 byte** *sang* **số thập phân** *)*
 
 ## Sự giúp đỡ:
 * Chân thành cảm ơn tổ chức [Chatfuel](https://chatfuel.com/about-us.html) và [Facebook](https://www.facebook.com/help/1735443093393986) đã hỗ trợ các nền tảng để phát triển ứng dụng.
