@@ -23,8 +23,7 @@
 * [1] Chân thành cảm ơn anh **[Mạnh Tuấn (Juno oKyo)](https://www.facebook.com/manhtuan1412)** - Quản trị viên [J2TeaM Community](https://www.facebook.com/groups/j2team.community) đã cung cấp nguồn chức năng **Chúc ngủ ngon**
 * [2] Chân thành cảm ơn bạn [Nguyễn Thành Dũng](https://www.facebook.com/thanhdungqb1991?fref=nf) - thành viên J2TeaM đã cung cấp nguồn chức năng **Vu vơ**
 * [3] Chân thành cảm ơn bạn [Nguyen Huu Dat](https://www.facebook.com/dl2811) - thành viên J2TeaM đã cung cấp nguồn chức năng **Tìm bài hát**
-* Chân thành cảm ơn [**Hostinger Việt Nam**](https://www.hostinger.vn) và [**Byethost**](https://byet.host) đã hỗ trợ dịch vụ máy chủ *(hosting)* miễn 
-
+* Chân thành cảm ơn [**Hostinger Việt Nam**](https://www.hostinger.vn) và [**Byethost**](https://byet.host) đã hỗ trợ dịch vụ máy chủ *(hosting)* miễn phí
 ## Tài liệu tham khảo:
 * [Nền tảng Messenger](https://developers.facebook.com/docs/messenger-platform)
 * [Tài liệu hướng dẫn Chatfuel](https://help.chatfuel.com/facebook-messenger/)
