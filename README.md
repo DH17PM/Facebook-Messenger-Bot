@@ -7,6 +7,7 @@
 3. *Đang tuyển thêm nhân sự*
 
 ## Các chức năng đã ra mắt:
+*Sử dụng tại [**đây**](https://www.messenger.com/t/434504756891831)*
 * Chúc ngủ ngon [1]
 * Vu vơ [2]
 * Tìm bài hát [3]
